@@ -33,12 +33,10 @@ Both methods identify 3 customer groups (G1, G2, G3):
 
 
 ## 🛠️ Technologies & Libraries
-✅ Python 3.11
+✅ Python
 ✅ Pandas (Data manipulation)
 ✅ Scikit-learn (K-Means, StandardScaler)
 ✅ Seaborn/Matplotlib (Visualizations)
 ✅ SciPy (Hierarchical clustering)
 ✅ Jupyter Notebook
 
-## Technologies Used
-- Python 3, Pandas, Scikit-learn, Matplotlib, Seaborn [file:1]
